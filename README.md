@@ -6,7 +6,7 @@ This utility compares binary packages from two branches of the ALT Linux package
 - Packages present in branch 1 but not in branch 2.
 - Packages present in branch 2 but not in branch 1.
 - Packages with higher version-release in branch 1 than in branch 2.
-When you run the utility, a json file with the comparison result will be saved
+- When you run the utility, a json file with the comparison result will be saved
 
 ## Requirements
 
