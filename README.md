@@ -29,7 +29,7 @@ This utility compares binary packages from two branches of the ALT Linux package
    sudo make install
    sudo ldconfig
 
-   ## Usage
+## Usage
 
    ```bash
    compare_packages
