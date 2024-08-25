@@ -20,11 +20,16 @@ This utility compares binary packages from two branches of the ALT Linux package
 
    ```bash
    git clone https://github.com/orange3107/baseAlt_test.git
-   cd project_root
 
-
-2. *Build and Install:*
+2. **Build and Install:**
 
    ```bash
-   git clone [<repository_url>](https://github.com/orange3107/baseAlt_test.git)
    cd project_root
+   make
+   sudo make install
+   sudo ldconfig
+
+   ## Usage
+
+   ```bash
+   compare_packages
