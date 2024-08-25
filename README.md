@@ -31,5 +31,7 @@ This utility compares binary packages from two branches of the ALT Linux package
 
 ## Usage
 
+**Run the utility**
+
    ```bash
    compare_packages
